@@ -2,6 +2,9 @@
 
 > Any trouble, please visit the [troubleshooting page](https://github.com/diogocavilha/fancy-git/blob/master/TROUBLESHOOTING.md)
 
+## v7.6.2
+- Fix incomplete Patched fonts
+
 ## v7.6.1
 - Fix shellcheck issues.
 
